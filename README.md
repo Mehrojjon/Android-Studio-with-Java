@@ -1,1 +1,1 @@
-# Android-Studio-with-Java
+Bu repozitoriyada Android Studio darslariga oid kodlar jamlangan
