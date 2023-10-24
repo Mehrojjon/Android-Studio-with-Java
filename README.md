@@ -1,1 +1,1 @@
-Bu repozitoriyada Android Studio darslariga oid kodlar jamlangan
+Bu repozitoriyada Android Studio darslariga oid kodlar jamlangan.
